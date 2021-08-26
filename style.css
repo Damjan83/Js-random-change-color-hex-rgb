@@ -1,0 +1,29 @@
+.color{
+    width: 100%;
+    height: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btnText {
+    width: 330px;
+    height: 100px;
+    text-align: center;
+}
+#hexColor, #rgbColor {
+    margin: 0;
+    font-size: 40px;
+    font-weight: bold;
+}
+#rgbColor{
+    margin-bottom: 20px;
+}
+.colorClick {
+    width: 150px;
+    height: 30px;
+    font-size: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background: black;
+    color: white;
+}
